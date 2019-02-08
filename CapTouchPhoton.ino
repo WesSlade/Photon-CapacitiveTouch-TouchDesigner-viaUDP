@@ -1,7 +1,7 @@
 
 /*
 This tutorial and project includes several libraries and coding examples from 
-other sources, they have been reference to the best of the author's ability below.
+other sources, they have been referenced to the best of the author's ability below.
 
 Febuary 2019 - Interaction Design @ Sheridan College - IO&E 2  - Winter 2019
 
